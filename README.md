@@ -25,6 +25,7 @@ This project is still in progress and will be fully functional soon. Sorry for t
 - [ ] Configure Backend instances
 - [ ] Configure Load-Balancer
 - [ ] Implement App Protect and DOS
+- [ ] Implement DNS records for this deplotment at benparis.net.
 - [ ] Revise and test for small business deployment.
 
 
