@@ -182,7 +182,7 @@ Commercial support is available at
     * ```sudo nano nginx-repo.key```
 
 * Download the second script for isntalling Nginx Plus, App protect, and DOS. I wrote this script based on <a href="https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/#installing-nginx-plus-on-debian-or-ubuntu">this</a> and <a href="https://docs.nginx.com/nginx-app-protect-dos/deployment-guide/learn-about-deployment/">this</a>
-    * Run the command: ```curl -o nginx_plus.sh https://raw.githubusercontent.com/benpariswork/Nginx-Advanced-Deployment/main/nginx-plus.sh```
+    * Run the command: ```curl -o nginx_plus.sh https://raw.githubusercontent.com/benpariswork/Advanced-Nginx-Deployment/main/nginx-plus.sh```
 
 * Run the command: ```chmod +x nginx_plus.sh```
     * This command will make the script we just installed executable.
